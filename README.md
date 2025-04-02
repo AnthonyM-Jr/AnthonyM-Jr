@@ -41,12 +41,10 @@ Currently looking to solidify a career as a Cybersecurity Analyst, leveraging my
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FFA500?&style=for-the-badge&logo=CompTIA&logoColor=white" />
   <img src="https://img.shields.io/badge/-ACAS_Supervisor_and_Operator-FF5722?&style=for-the-badge&logo=appveyor&logoColor=white" />
-
 </div>
 
 ## Projects
