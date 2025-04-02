@@ -13,7 +13,7 @@ Currently looking to solidify a career as a Cybersecurity Analyst, leveraging my
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Vulnerability Tracking & Risk Analysis | <a href="https://google.com">Detection Lab</a>|
+| Vulnerability Tracking & Risk Analysis | <a href="https://github.com/AnthonyM-Jr/EPSS-Vulnerability-Tracker">EPSS Vulnerability Tracker Tool</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -48,4 +48,4 @@ Currently looking to solidify a career as a Cybersecurity Analyst, leveraging my
 </div>
 
 ## Projects
-- EPSS Vulnerability Tracker
+- <a href="https://github.com/AnthonyM-Jr/EPSS-Vulnerability-Tracker">EPSS Vulnerability Tracker Tool</a>
