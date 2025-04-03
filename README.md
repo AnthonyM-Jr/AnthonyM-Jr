@@ -9,7 +9,7 @@ Cleared cybersecurity professional with a background in military intelligence an
 Currently looking to solidify a career as a Cybersecurity Analyst, leveraging my expertise in threat intelligence, vulnerability management, and incident response. 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -23,6 +23,11 @@ Currently looking to solidify a career as a Cybersecurity Analyst, leveraging my
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
+### Vulnerability Management
+<div>
+    <img src="https://img.shields.io/badge/-Tenable-1034A6?&style=for-the-badge&logo=tenable&logoColor=white">
+</div>
+    
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
