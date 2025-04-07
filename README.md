@@ -6,7 +6,7 @@ Cleared cybersecurity professional with a background in military intelligence an
 
 ## Objective
 
-Currently looking to solidify a career as a Cybersecurity Analyst, leveraging my expertise in threat intelligence, vulnerability management, and incident response. 
+Seeking to establish a strong career as a Cybersecurity Analyst, utilizing my skills in threat intelligence, vulnerability management, and incident response to enhance organizational security. 
 
 ## Skills
 
