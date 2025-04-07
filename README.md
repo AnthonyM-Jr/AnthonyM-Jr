@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/amagwoodjr/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-Cleared cybersecurity professional with a background in military intelligence and defensive cyber operations. I transform advanced threat data into actionable security strategies and develop proactive security solutions to safeguard critical digital infrastructure against evolving threats.
+Cleared cybersecurity professional with a background in cyber threat intelligence and defensive cyber operations. I transform advanced threat data into actionable security strategies and develop proactive security solutions to safeguard critical digital infrastructure against evolving threats.
 
 ## Objective
 
