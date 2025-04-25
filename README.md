@@ -14,6 +14,7 @@ Seeking to establish a strong career as a Cybersecurity Analyst, utilizing my sk
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Vulnerability Tracking & Risk Analysis | <a href="https://github.com/AnthonyM-Jr/EPSS-Vulnerability-Tracker">EPSS Vulnerability Tracker Tool</a>|
+| Network Forensics | <a href="https://github.com/AnthonyM-Jr/CTF-Challenges/blob/main/LetsDefend/Malicious%20Web%20Traffic%20Analysis.md"> LetsDefend Malicious Web Traffic Analysis Challenge</a>|
 
 ## Tools
 
@@ -24,6 +25,7 @@ Seeking to establish a strong career as a Cybersecurity Analyst, utilizing my sk
     
 ### Network
 <div>
+    <img src="https://img.shields.io/badge/-CyberChef-228B22?&style=for-the-badge&logo=codechef&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
