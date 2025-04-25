@@ -50,3 +50,4 @@ Seeking to establish a strong career as a Cybersecurity Analyst, utilizing my sk
 
 ## Projects
 - <a href="https://github.com/AnthonyM-Jr/EPSS-Vulnerability-Tracker">EPSS Vulnerability Tracker Tool</a>
+- <a href="https://github.com/AnthonyM-Jr/CTF-Challenges">Completed Defensive CTFs</a>
