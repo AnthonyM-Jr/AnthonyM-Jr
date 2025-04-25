@@ -2,11 +2,11 @@
 <a href="https://www.linkedin.com/in/amagwoodjr/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-Cleared cybersecurity professional with a background in cyber threat intelligence and defensive cyber operations. I transform advanced threat data into actionable security strategies and develop proactive security solutions to safeguard critical digital infrastructure against evolving threats.
+Cleared cybersecurity professional with a strong foundation in threat intelligence, network defense, and incident response. I specialize in analyzing real-world threats, leveraging advanced tools and threat intelligence platforms, and applying hands-on forensic techniques to detect, investigate, and mitigate malicious activity. I transform complex threat data into clear, actionable strategies that enhance and harden organizational security against evolving cyber threats.
 
 ## Objective
 
-Seeking to establish a strong career as a Cybersecurity Analyst, utilizing my skills in threat intelligence, vulnerability management, and incident response to enhance organizational security. 
+Pursuing a cybersecurity analyst role where I can apply my experience in threat intelligence, vulnerability analysis, and network forensics to proactively defend enterprise systems. I aim to contribute to a team that values detection engineering, hands-on analysis, and continuous improvement of security posture.
 
 ## Skills
 
