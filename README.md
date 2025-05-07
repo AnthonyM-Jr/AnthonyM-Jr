@@ -1,8 +1,7 @@
 # Hello, I'm Anthony Magwood Jr.
 <a href="https://www.linkedin.com/in/amagwoodjr/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
-Cleared cybersecurity professional with a strong foundation in threat intelligence, network defense, and incident response. I specialize in analyzing real-world threats, leveraging advanced tools and threat intelligence platforms, and applying hands-on forensic techniques to detect, investigate, and mitigate malicious activity. I transform complex threat data into clear, actionable strategies that enhance and harden organizational security against evolving cyber threats.
+Mission-driven cybersecurity professional with 4+ years of experience in threat intelligence, incident response, and vulnerability management across military and private sectors. Holding CompTIA CySA+ and Security+ certifications, and an M.S. in IT (Information Assurance), I specialize in translating advanced threat data into actionable security strategies.
 
 ## Objective
 
@@ -14,7 +13,7 @@ Pursuing a cybersecurity analyst role where I can apply my experience in threat 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Vulnerability Tracking & Risk Analysis | <a href="https://github.com/AnthonyM-Jr/EPSS-Vulnerability-Tracker">EPSS Vulnerability Tracker Tool</a>|
-| Network Forensics | <a href="https://github.com/AnthonyM-Jr/CTF-Challenges/blob/main/LetsDefend/Malicious%20Web%20Traffic%20Analysis.md"> LetsDefend Malicious Web Traffic Analysis Challenge</a>|
+| Network Forensics | <a href="https://github.com/AnthonyM-Jr/CTF-Challenges/blob/main/LetsDefend/compromised_ai_cluster_walkthrough_github.md"> LetsDefend Compromised AI Cluster Challenge</a>|
 
 ## Tools
 
@@ -50,4 +49,4 @@ Pursuing a cybersecurity analyst role where I can apply my experience in threat 
 
 ## Projects
 - <a href="https://github.com/AnthonyM-Jr/EPSS-Vulnerability-Tracker">EPSS Vulnerability Tracker Tool</a>
-- <a href="https://github.com/AnthonyM-Jr/CTF-Challenges">Completed Defensive CTFs</a>
+- <a href="https://github.com/AnthonyM-Jr/CTF-Challenges">Completed Blue Team CTFs</a>
