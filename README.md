@@ -1,5 +1,5 @@
 # Hello, I'm Anthony Magwood Jr.
-<a href="https://www.linkedin.com/in/amagwoodjr/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/amagwoodjr/"><img src="https://img.shields.io/badge/-My LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Mission-driven cybersecurity professional with 4+ years of experience in threat intelligence, incident response, and vulnerability management across military and private sectors. Holding CompTIA CySA+ and Security+ certifications, and an M.S. in IT (Information Assurance), I specialize in translating advanced threat data into actionable security strategies.
 
@@ -16,6 +16,14 @@ Pursuing a cybersecurity analyst role where I can apply my experience in threat 
 | Network Forensics | <a href="https://github.com/AnthonyM-Jr/CTF-Challenges/blob/main/LetsDefend/compromised_ai_cluster_walkthrough_github.md"> LetsDefend Compromised AI Cluster Challenge</a>|
 
 ## Tools
+
+### Threat Intelligence Tools
+<div>
+    <img src="https://img.shields.io/badge/-Threatminer-4C8F00?&style=for-the-badge&logo=google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Any.Run-1E90FF?&style=for-the-badge&logo=cloudflare&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirusTotal-FF6347?&style=for-the-badge&logo=virustotal&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SocRadar-00A2FF?&style=for-the-badge&logo=internetexplorer&logoColor=white" />
+</div>
 
 ### Vulnerability Management
 <div>
